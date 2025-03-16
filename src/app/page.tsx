@@ -1,0 +1,1 @@
+Okay, I'm ready for the new project's tracker and the `src/app/page.tsx` file's description. Please provide them. I will then generate the code for that file, adhering to all instructions.
