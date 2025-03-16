@@ -1,0 +1,15 @@
+xml
+<project>
+  <name>Pizza Ordering App</name>
+  <framework>next-on-pages</framework>
+  <overview>
+    A simple pizza ordering application with a focus on showcasing image handling and static asset routing in Cloudflare Pages.  Users can view a pizza image and a basic ordering form.
+  </overview>
+</project>
+
+<asset>
+  <path>public/pizza.png</path>
+  <description>
+    A static image asset for the pizza ordering application.  This is the main image displayed on the landing page to entice users.  No code generation is required, just the *existence* of the asset.  This file *is* the image itself (PNG).
+  </description>
+</asset>
